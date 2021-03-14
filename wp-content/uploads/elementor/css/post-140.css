@@ -1,6 +1,0 @@
-.elementor-kit-140 {--e-global-color-primary: #6ec1e4;--e-global-color-secondary: #54595f;--e-global-color-text: #fff;--e-global-color-accent: #61ce70;--e-global-color-60f01b70: #7a7a7a;--e-global-color-1519226b: #4054b2;--e-global-color-110e49ff: #23a455;--e-global-color-7ca6c029: #000;--e-global-color-7d44e59d: #fff;--e-global-color-2bc2e6a0: #20c5ba;--e-global-color-26ff694a: #000;--e-global-color-618b7a7c: #0b3a42;--e-global-color-4fef3378: #000;--e-global-typography-primary-font-family: "iryekan";--e-global-typography-primary-font-weight: 600;--e-global-typography-secondary-font-family: "iryekan";--e-global-typography-secondary-font-weight: 400;--e-global-typography-text-font-family: "iryekan";--e-global-typography-text-font-weight: 400;--e-global-typography-accent-font-family: "iryekan";--e-global-typography-accent-font-weight: 500;}
-.elementor-section.elementor-section-boxed > .elementor-container {max-width: 1140px;}
- {}
-h1.entry-title {display: var(--page-title-display);}
-@media (max-width:1024px) {.elementor-section.elementor-section-boxed > .elementor-container {max-width: 1025px;}}
-@media (max-width:767px) {.elementor-section.elementor-section-boxed > .elementor-container {max-width: 768px;}}
